@@ -7,4 +7,7 @@ Portfolio page showcasing my previous projects with descriptions and screenshots
 Blog section where I share my thoughts on various topics
 Contact form for users to get in touch with me
 Getting Started
-To run the website locally, you can clone the repository and open the index.html file in your web browser
+To run the website locally, you can clone the repository and open the index.html file in your web browsers 
+
+Contributing
+If you find a bug or have a feature request, please open an issue or submit a pull request. All contributions are welcome!
