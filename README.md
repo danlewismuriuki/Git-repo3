@@ -11,3 +11,5 @@ To run the website locally, you can clone the repository and open the index.html
 
 Contributing
 If you find a bug or have a feature request, please open an issue or submit a pull request. All contributions are welcome!
+
+This project is licensed under the MIT License - see the LICENSE.md file for details.
